@@ -21,4 +21,4 @@ It covers:
 - Reverse engineering with Ghidra & IDA  
 - Networking and binary bug hunting  
 
-📄 [Click here to view the full 6-month study plan](Study Plan.md)
+📄 [Click here to view the full 6-month study plan](Study%20Plan.md)
